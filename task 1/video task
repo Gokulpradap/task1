@@ -1,0 +1,8 @@
+1.The browser 
+2.High level flow 
+3.Parsing HTML 
+4.Parsing flow P
+5.Parsing, tokenizer, parse tree, DOM tree
+6.There is certain situations where ,  stops the parsing of the HTML, <script> tag 
+7.<link> <style> 08:26 speculative parsing 
+8.Reentrant, means the parsing progress can be interrupted
